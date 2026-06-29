@@ -83,11 +83,11 @@ http://localhost/task1/register.php
 
 > *(Add your screenshots here after running the project)*
 
-- `screenshots/db-table.png` — phpMyAdmin users table
-- `screenshots/register.png` — Registration page
-- `screenshots/register-success.png` — After successful registration
-- `screenshots/login.png` — Login page
-- `screenshots/dashboard.png` — Dashboard after login
+- `db-table.png` — phpMyAdmin users table
+- `register.png` — Registration page
+- `register-success.png` — After successful registration
+- `login.png` — Login page
+- `dashboard.png` — Dashboard after login
 
 ---
 
