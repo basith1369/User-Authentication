@@ -81,8 +81,6 @@ http://localhost/task1/register.php
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here after running the project)*
-
 - `db-table.png` — phpMyAdmin users table
 - `register.png` — Registration page
 - `register-success.png` — After successful registration
