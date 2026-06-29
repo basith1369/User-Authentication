@@ -81,11 +81,20 @@ http://localhost/task1/register.php
 
 ## 📸 Screenshots
 
-- `db-table.png` — phpMyAdmin users table
-- `register.png` — Registration page
-- `register-success.png` — After successful registration
-- `login.png` — Login page
-- `dashboard.png` — Dashboard after login
+### Database — phpMyAdmin `users` Table
+![DB Table](db-table.png)
+
+### Registration Page
+![Register](register.png)
+
+### Successful Registration
+![Register Success](register-success.png)
+
+### Login Page
+![Login](login.png)
+
+### Dashboard (After Login)
+![Dashboard](dashboard.png)
 
 ---
 
